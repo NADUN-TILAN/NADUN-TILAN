@@ -1,8 +1,8 @@
 - 👋 Hey, I’m @NADUN-TILAN
-- 👀 UI | UX design & Developer | Professional Programmer 
-- 🌱 Under Graduate Student
-- 💞️ Java | .Net Developer
-- 📫 
+- 👀 UI | UX design & Developer | Professional Programmer | Static & Dynamic web Developer
+- 🌱 Undergraduate Student
+- 💞️ #Html #Css #Java #CShap #C #C++ #Python
+- 📫 Project developer
 - https://www.linkedin.com/in/nadun-tilan
 
 <!---
