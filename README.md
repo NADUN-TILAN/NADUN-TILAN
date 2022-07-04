@@ -2,7 +2,7 @@
 - 👀 UI | UX design & Developer | Professional Programmer 
 - 🌱 Under Graduate Student
 - 💞️ Java | .Net Developer
-- 📫 BSc | BEng | MSc | PhD (SE : NE : CSE)
+- 📫 
 - https://www.linkedin.com/in/nadun-tilan
 
 <!---
